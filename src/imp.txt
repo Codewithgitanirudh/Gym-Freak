@@ -1,0 +1,4 @@
+lg--> for larger devices
+sm --> small devices
+xs--> from xtra small devies
+useParams- we use this to determine which id we are currently on and find the about that id.
